@@ -1,0 +1,4 @@
+Madhuri:10
+Murali:20
+Sathwik:30
+kundan:40
